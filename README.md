@@ -6,17 +6,17 @@ Multiple excel files of POs are used to collate into a packing list
 * PO number and Project name - needed to identify which PO the items are associated with
 * Items purchased - each are placed under the right PO number and PJ name
 
-![input file](../master/img/sample_po.png)
+![input file](/img/sample_po.png)
 
 ### Desired Output
 Table format packing list inside a word document ready for printing. *see image below for reference*
 
-![desired output](../master/img/output.png)
+![desired output](/img/output.png)
 
 ### Actual Output
 Excel file containing the desired format but without the desired font styles. *see image below for reference*
 
-![actual output](../master/img/actual_output.png)
+![actual output](/img/actual_output.png)
 
 ### Running the Program
 The python file contains everything and can execute the file as is. There are still heaps of issues with this initial release but I'm working on it and listed them as a mental note.
